@@ -108,3 +108,64 @@ git log--oneline
 git lob --oneline
 git log --oneline
 git diff cd517bf d1e8936
+more .gitignore
+git init
+git ls
+ls
+git log
+git log --oneline
+touch file6.txt 
+git add .
+git add file6.txt
+git commit 
+git log --oneline
+git add devops 1
+git status
+git add file2.txt
+git commit -m "additional chages"
+ls
+git more file2.txt
+git log --oneline
+git diff 460bd99 ced02e3
+projectedu
+e/testaws
+/e
+projectedu
+/projectedu
+projectedu/
+~projectedu/
+prohjectedu/
+projectedu/
+cd project edu
+cd projectedu
+git tag -a v1.0 -m 'march release'
+git log
+git show v1.1
+git show v1.0
+git show c120b3fb76dc2306dc00270e803e38bc75f54945
+git tag
+git tag -a v1.2 b1900705901ad2bbca8a5c74d20364ebf64924d0 'may changes'
+git tag -a v1.2 b1900705901ad2bbca 'april release'
+git tag -a v1.2 cd517bfbe3372b19cbb8b9cb9ccbd7dad5cfc111 -m 'april release'
+git show
+git show v1.2
+git tag -d v1.2
+touch newfeature
+git status
+git add newfeature
+git status
+git stash
+git status
+git stash list
+git stash show stash@{0}
+git stash apply stash@{0}
+history
+git log --stat
+git log --oneline
+git reset --hard 85b04b5
+git log --oneline
+ls
+git revert d875e87
+ls
+commits
+history
